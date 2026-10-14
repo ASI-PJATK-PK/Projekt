@@ -30,7 +30,7 @@ W przypadku grup większych niż 1 osoba należy zbudować **Meta Model** skład
    - Przygotuj diagram architektury i zapisz go w folderze `docs/`.
 
 3. **Utworzenie repozytorium projektu**
-   - Stwórz repozytorium na GitHub:  
+   - Stwórz repozytorium w organizacji [ASI-PJATK-PK](https://github.com/ASI-PJATK-PK):  
      `ai_project_<team_name>`
    - Dodaj wszystkich członków zespołu.
    - Skonfiguruj:
