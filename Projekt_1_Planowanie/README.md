@@ -1,7 +1,7 @@
 # 🧠 Projekt AI — Zajęcia 1: Planowanie i definicja projektu
 
 ## 🎯 Cel zajęć
-Celem pierwszych zajęć jest rozpoczęcie pracy nad projektem zespołowym z zakresu **architektury systemów sztucznej inteligencji**.  
+Celem pierwszych zajęć jest rozpoczęcie pracy nad projektem zespołowym (jedna osoba to też zespół) z zakresu **architektury systemów sztucznej inteligencji**.  
 Zespół ma zdefiniować temat projektu, zaplanować jego strukturę, stworzyć architekturę systemu oraz przygotować repozytorium z bazowym szkieletem projektu w **Kedro**.
 
 Studenci rozpoczynają zespół projektowy (1–4 osoby), który przez kolejne tygodnie zrealizuje kompletny system AI.
