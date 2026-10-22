@@ -17,7 +17,7 @@ W przypadku grup większych niż 1 osoba należy zbudować **Meta Model** skład
 1. **Wybór tematu projektu**  
    - Określ problem, który chcesz rozwiązać (np. klasyfikacja, predykcja, rekomendacja, wykrywanie anomalii).  
    - Zdefiniuj wartość użytkową lub biznesową projektu.  
-   - Wybierz dane, które będą wykorzystane (lub poszukaj otwartych źródeł).  
+   - Wybierz dane, które będą wykorzystane (lub poszukaj otwartych źródeł) - **każda osobą w zespole pracuje na swoim data secie !!!**.  
 
 2. **Projekt architektury systemu**  
    - Zidentyfikuj główne moduły:
