@@ -4,6 +4,14 @@
 Celem zajęć jest **zrozumienie danych i ich jakości** oraz przygotowanie wniosków, które pomogą w dalszych etapach projektu (czyszczenie, modelowanie).  
 Zespół ma za zadanie przeprowadzić analizę eksploracyjną danych (EDA), zbudować pierwszy pipeline w Kedro oraz udokumentować wyniki w repozytorium.
 
+## 📤 Zasady oddawania
+
+1. **Nazwa repozytorium** musi zawierać numer s studenta lub studentów.
+2. **Ten etap** musi mieć **dedykowany branch** z rozwiązaniem (np. `zajecia-2`).
+3. **Oddanie** przez Microsoft Teams: **link do brancha** (jako **link**, nie plik tekstowy).
+4. **Każda poprawa** = przesłanie **nowego linku**.
+5. **Commity** po ostatecznym terminie oddania = **oszustwo**.
+
 ---
 
 ## 🧩 Zakres pracy
@@ -113,9 +121,11 @@ ai_project_teamX/
 
 ---
 
-## 🧭 Linki projektu - linki powinny być zwrócone przez Teamsy (najlepiej podpisane)
+## 🧭 Oddanie przez Teams — wyłącznie jako link (nie plik tekstowy)
 
-- 📦 Repozytorium GitHub: [link tutaj]  
+Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy link**. Commity po ostatecznym terminie = oszustwo.
+
+- 📦 Link do brancha z rozwiązaniem (Zajęcia 2): [link tutaj]  
 - 📘 Notebook EDA: [link tutaj]  
 - 📄 Raport EDA: [link tutaj]  
 
@@ -130,4 +140,3 @@ ai_project_teamX/
 
 > 💡 **Wskazówka:**  
 > Dobrze przeprowadzona EDA pozwala zaoszczędzić godziny pracy przy budowie modelu. Zadbaj o czytelne wykresy i sensowne wnioski!
-```

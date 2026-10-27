@@ -10,6 +10,14 @@ Pierwsze zajęcia to moment na ustalenie kierunku, odpowiedzialności i podstaw 
 ## UWAGA:
 W przypadku grup większych niż 1 osoba należy zbudować **Meta Model** składający się z tyłu mniejszych modeli ile jest osób  w grupie i każdy z nich ma mieć swój oddzielny dataset.
 
+## 📤 Zasady oddawania
+
+1. **Nazwa repozytorium** musi zawierać numer s studenta lub studentów (np. `ai_project_sXXXXX` lub `ai_project_sXXXXX_sYYYYY`).
+2. **Ten etap** musi mieć **dedykowany branch** z rozwiązaniem (np. `zajecia-1`).
+3. **Oddanie** odbywa się wyłącznie przez Microsoft Teams: przesłanie **linku do brancha** z rozwiązaniem (jako **link**, nie jako plik tekstowy).
+4. **Każda poprawa** wymaga przesłania **nowego linku** do brancha z poprawionym rozwiązaniem.
+5. **Commity** przesłane po ostatecznym terminie oddania będą traktowane jako **oszustwo**.
+
 ---
 
 ## 🧩 Zakres pracy
@@ -30,8 +38,9 @@ W przypadku grup większych niż 1 osoba należy zbudować **Meta Model** skład
    - Przygotuj diagram architektury i zapisz go w folderze `docs/`.
 
 3. **Utworzenie repozytorium projektu**
-   - Stwórz repozytorium w organizacji [ASI-PJATK-PK](https://github.com/ASI-PJATK-PK):  
-     `ai_project_<team_name>`
+   - Stwórz repozytorium w organizacji [ASI-PJATK-PK](https://github.com/ASI-PJATK-PK) z **numerem s** (lub numerami s) w nazwie, np.:  
+     `ai_project_sXXXXX` (1 osoba) lub `ai_project_sXXXXX_sYYYYY` (zespół)
+   - Utwórz **dedykowany branch** dla tego etapu (np. `zajecia-1`) i na nim prowadź pracę.
    - Dodaj wszystkich członków zespołu.
    - Skonfiguruj:
      - `.gitignore`
@@ -65,13 +74,13 @@ W przypadku grup większych niż 1 osoba należy zbudować **Meta Model** skład
 
 ````
 
-ai_project_teamX/
+ai_project_sXXXXX/   ← nazwa z numerem/numerami s
 │
 ├── docs/
 │   └── architecture_diagram.png
 │
 ├── src/
-│   └── ai_project_teamX/   ← kod Kedro
+│   └── ai_project_sXXXXX/   ← kod Kedro
 │
 ├── data/
 │   ├── raw/
@@ -93,7 +102,7 @@ ai_project_teamX/
 
 | Nr | Element oceny | Opis | Punkty maks. | Punkty uzyskane |
 |----|----------------|------|---------------|-----------------|
-| 1️⃣ | **Repozytorium GitHub** | Utworzony projekt Kedro, README, `.gitignore`, `requirements.txt`, `LICENSE` | **10 pkt** | |
+| 1️⃣ | **Repozytorium GitHub** | Nazwa z numerem/numerami s, dedykowany branch etapu, projekt Kedro, README, `.gitignore`, `requirements.txt`, `LICENSE` | **10 pkt** | |
 | 2️⃣ | **Backlog projektu w GitHub Projects** | Minimum 10 zadań w tablicy z przypisanymi osobami i statusem | **5 pkt** | |
 | 3️⃣ | **Diagram architektury systemu (w folderze `docs/`)** | Diagram z modułami (ETL, ML, API, UI, Airflow, Docker) | **5 pkt** | |
 |   | **Łącznie** |  | **20 pkt** | |
@@ -110,9 +119,11 @@ ai_project_teamX/
 
 ---
 
-## 🧭 Linki projektu - linki powinny być zwrócone przez Teamsy (najlepiej podpisane)
+## 🧭 Oddanie przez Teams — wyłącznie jako link (nie plik tekstowy)
 
-- 📦 Repozytorium GitHub: [link tutaj]  
+Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy link**. Commity po ostatecznym terminie = oszustwo.
+
+- 📦 Link do brancha z rozwiązaniem (Zajęcia 1): [link tutaj]  
 - 🗂️ GitHub Project Board: [link tutaj]  
 - 📜 Dokumentacja / diagram architektury: [link tutaj]  
 

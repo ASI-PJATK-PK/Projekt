@@ -4,6 +4,14 @@
 Celem zajęć jest **stworzenie pipeline’u przetwarzania danych w Kedro**, który automatycznie czyści dane, standaryzuje je i przygotowuje do trenowania modelu ML.  
 Efektem końcowym będzie **zestaw gotowych danych treningowych i testowych** oraz pipeline możliwy do uruchomienia komendą `kedro run --pipeline=preprocessing`.
 
+## 📤 Zasady oddawania
+
+1. **Nazwa repozytorium** musi zawierać numer s studenta lub studentów.
+2. **Ten etap** musi mieć **dedykowany branch** z rozwiązaniem (np. `zajecia-3`).
+3. **Oddanie** przez Microsoft Teams: **link do brancha** (jako **link**, nie plik tekstowy).
+4. **Każda poprawa** = przesłanie **nowego linku**.
+5. **Commity** po ostatecznym terminie oddania = **oszustwo**.
+
 ---
 
 ## 🧩 Zakres pracy
@@ -149,9 +157,11 @@ ai_project_teamX/
 
 ---
 
-## 🧭 Linki projektu - linki powinny być zwrócone przez Teamsy (najlepiej podpisane)
+## 🧭 Oddanie przez Teams — wyłącznie jako link (nie plik tekstowy)
 
-- 📦 Repozytorium GitHub: [link tutaj]  
+Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy link**. Commity po ostatecznym terminie = oszustwo.
+
+- 📦 Link do brancha z rozwiązaniem (Zajęcia 3): [link tutaj]  
 - 🧪 Testy jednostkowe: [link tutaj]  
 - 📄 Raport preprocessingowy: [link tutaj]  
 

@@ -11,6 +11,14 @@ Dzięki temu użytkownik będzie mógł wprowadzać dane wejściowe i otrzymywa�
 **Grupy w których jest więcej niż 1 osoba muszą mieć już meta-model lub inne równoważne rozwiązanie !!! 
 BEZ TEGO ZADANIE BĘDZIE OCENIONE NA 0 DLA WSZYSTKICH W GRUPIE !!!**
 
+## 📤 Zasady oddawania
+
+1. **Nazwa repozytorium** musi zawierać numer s studenta lub studentów.
+2. **Ten etap** musi mieć **dedykowany branch** z rozwiązaniem (np. `zajecia-7`).
+3. **Oddanie** przez Microsoft Teams: **link do brancha** (jako **link**, nie plik tekstowy).
+4. **Każda poprawa** = przesłanie **nowego linku**.
+5. **Commity** po ostatecznym terminie oddania = **oszustwo**.
+
 ---
 
 ## 🧩 Zakres pracy
@@ -210,12 +218,14 @@ ai_project_teamX/
 
 ---
 
-## 🧭 Linki projektu - linki powinny być zwrócone przez Teamsy (najlepiej podpisane)
+## 🧭 Oddanie przez Teams — wyłącznie jako link (nie plik tekstowy)
 
+Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy link**. Commity po ostatecznym terminie = oszustwo.
+
+* 📦 **Link do brancha z rozwiązaniem (Zajęcia 7):** [link tutaj]
 * 🌐 **Backend (API):** Screnshot do [http://localhost:8000/docs](http://localhost:8000/docs) <- tylko jeśli działa !!!
 * 💻 **Frontend (Streamlit):** Screnshot do  [http://localhost:8501](http://localhost:8501) <- tylko jeśli działa !!!
 * 📄 **Raport webowy:** `docs/webapp_report.md`
-* 📦 **Repozytorium projektu:** [link do GitHub]
 
 ---
 

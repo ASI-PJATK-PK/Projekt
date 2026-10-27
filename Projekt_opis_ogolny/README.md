@@ -6,6 +6,16 @@ Każde zajęcia kończą się działającym artefaktem: kodem, pipeline’em lub
 
 ---
 
+## 📤 Zasady oddawania (obowiązują wszystkie etapy)
+
+1. **Nazwa repozytorium** musi zawierać numer s studenta lub studentów (np. `ai_project_sXXXXX` lub `ai_project_sXXXXX_sYYYYY`).
+2. **Każde zadanie / etap** musi mieć **dedykowany branch** z rozwiązaniem (np. `zajecia-1`, `zajecia-2`, …).
+3. **Oddanie** odbywa się wyłącznie przez Microsoft Teams: przesłanie **linku do brancha** z rozwiązaniem danego etapu (jako **link**, nie jako plik tekstowy).
+4. **Każda poprawa** wymaga przesłania **nowego linku** do brancha z poprawionym rozwiązaniem.
+5. **Commity** przesłane po ostatecznym terminie oddania będą traktowane jako **oszustwo**.
+
+---
+
 ## 📚 Plan zajęć
 
 ### 🏗️ Zajęcia 1: Planowanie i definicja projektu
@@ -16,9 +26,9 @@ Każde zajęcia kończą się działającym artefaktem: kodem, pipeline’em lub
 - Tworzenie backlogu projektu (user stories, kamienie milowe)  
 - Projektowanie architektury systemu (moduły: ETL, ML, API, UI)  
 - Wprowadzenie do **Kedro** i zasad zarządzania projektem ML  
-- Utworzenie repozytorium (GitHub/GitLab) i inicjalizacja projektu Kedro  
+- Utworzenie repozytorium (GitHub) z numerami s w nazwie, dedykowany branch etapu i inicjalizacja projektu Kedro  
 
-**Rezultat:** Repozytorium z utworzonym szkieletem Kedro i backlogiem zadań  
+**Rezultat:** Repozytorium (nazwa z numerami s) z utworzonym szkieletem Kedro i backlogiem zadań; oddanie = link do brancha w Teams  
 
 ---
 

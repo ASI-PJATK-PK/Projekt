@@ -4,6 +4,14 @@
 Celem zajęć jest **automatyzacja procesu budowy modeli ML** oraz wybór najlepszego podejścia spośród modeli bazowych, AutoML i własnego modelu.  
 Zespół ma zbudować pipeline treningowy w **Kedro**, zrealizować ewaluację jakości i zapisać wytrenowany model.
 
+## 📤 Zasady oddawania
+
+1. **Nazwa repozytorium** musi zawierać numer s studenta lub studentów.
+2. **Ten etap** musi mieć **dedykowany branch** z rozwiązaniem (np. `zajecia-4`).
+3. **Oddanie** przez Microsoft Teams: **link do brancha** (jako **link**, nie plik tekstowy).
+4. **Każda poprawa** = przesłanie **nowego linku**.
+5. **Commity** po ostatecznym terminie oddania = **oszustwo**.
+
 ---
 
 ## 🧩 Zakres pracy
@@ -177,9 +185,11 @@ ai_project_teamX/
 
 ---
 
-## 🧭 Linki projektu - linki powinny być zwrócone przez Teamsy (najlepiej podpisane)
+## 🧭 Oddanie przez Teams — wyłącznie jako link (nie plik tekstowy)
 
-- 📦 Repozytorium GitHub: [link tutaj]  
+Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy link**. Commity po ostatecznym terminie = oszustwo.
+
+- 📦 Link do brancha z rozwiązaniem (Zajęcia 4): [link tutaj]  
 - 📄 Raport z modelowania: [link tutaj]  
 - 📘 Notebook AutoML (jeśli był użyty): [link tutaj]  
 
@@ -195,7 +205,3 @@ ai_project_teamX/
 > 💡 **Wskazówka:**  
 > Nie chodzi o znalezienie „najlepszego” modelu, ale o **zrozumienie procesu wyboru** – porównuj, analizuj i uzasadniaj decyzje!
 
----
-
-Czy chcesz, żebym przygotował teraz także **szablon pliku `nodes.py`** z przykładowymi funkcjami dla `train_baseline`, `train_automl`, `train_custom` i `evaluate_models` (do wklejenia w projekt Kedro)?
-Mogę też dodać przykładowy fragment raportu `modeling_report.md` z tabelą wyników i interpretacją.

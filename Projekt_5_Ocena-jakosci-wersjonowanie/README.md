@@ -9,6 +9,14 @@ Studenci nauczą się analizować błędy modelu, interpretować wyniki (np. SHA
 **Wybieramy konkretny model a nie cały system autoML !!!**
 **Dodatkowo grupy w których jest więcej niż 1 osoba od tego momentu muszą mieć już meta-model lub inne równoważne rozwiązanie !!!**
 
+## 📤 Zasady oddawania
+
+1. **Nazwa repozytorium** musi zawierać numer s studenta lub studentów.
+2. **Ten etap** musi mieć **dedykowany branch** z rozwiązaniem (np. `zajecia-5`).
+3. **Oddanie** przez Microsoft Teams: **link do brancha** (jako **link**, nie plik tekstowy).
+4. **Każda poprawa** = przesłanie **nowego linku**.
+5. **Commity** po ostatecznym terminie oddania = **oszustwo**.
+
 ---
 
 ## 🧩 Zakres pracy
@@ -130,8 +138,11 @@ ai_project_teamX/
 
 ---
 
-## 🧭 Linki projektu - linki powinny być zwrócone przez Teamsy (najlepiej podpisane)
-- 📦 Repozytorium GitHub: [link tutaj]  
+## 🧭 Oddanie przez Teams — wyłącznie jako link (nie plik tekstowy)
+
+Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy link**. Commity po ostatecznym terminie = oszustwo.
+
+- 📦 Link do brancha z rozwiązaniem (Zajęcia 5): [link tutaj]  
 - 📊 MLflow dashboard (jeśli użyty): [link tutaj]  
 - 📄 Raport oceny jakości: [link tutaj]  
 

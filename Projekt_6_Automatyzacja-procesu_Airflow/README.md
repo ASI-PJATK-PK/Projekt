@@ -11,6 +11,14 @@ Studenci nauczą się tworzyć i konfigurować przepływy zadań (DAG-i), które
 **Grupy w których jest więcej niż 1 osoba muszą mieć już meta-model lub inne równoważne rozwiązanie !!! 
 BEZ TEGO ZADANIE BĘDZIE OCENIONE NA 0 DLA WSZYSTKICH W GRUPIE !!!**
 
+## 📤 Zasady oddawania
+
+1. **Nazwa repozytorium** musi zawierać numer s studenta lub studentów.
+2. **Ten etap** musi mieć **dedykowany branch** z rozwiązaniem (np. `zajecia-6`).
+3. **Oddanie** przez Microsoft Teams: **link do brancha** (jako **link**, nie plik tekstowy).
+4. **Każda poprawa** = przesłanie **nowego linku**.
+5. **Commity** po ostatecznym terminie oddania = **oszustwo**.
+
 ---
 
 ## 🧩 Zakres pracy
@@ -199,11 +207,13 @@ ai_project_teamX/
 
 ---
 
-## 🧭 Linki projektu - linki powinny być zwrócone przez Teamsy (najlepiej podpisane)
+## 🧭 Oddanie przez Teams — wyłącznie jako link (nie plik tekstowy)
 
-* 🌐 **Airflow UI:** [http://localhost:8080](http://localhost:8080)
+Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy link**. Commity po ostatecznym terminie = oszustwo.
+
+* 📦 **Link do brancha z rozwiązaniem (Zajęcia 6):** [link tutaj]
+* 🌐 **Airflow UI:** [http://localhost:8080](http://localhost:8080) (zrzut / opis w raporcie)
 * 📄 **Raport Airflow:** `docs/airflow_report.md`
-* 📦 **Repozytorium projektu:** [link do GitHub]
 
 ---
 
