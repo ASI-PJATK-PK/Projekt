@@ -236,7 +236,7 @@ ai_project_teamX/
 | 2️⃣ | **Test lokalny (`docker run` / `docker-compose`)** | Poprawne uruchomienie kontenerów lokalnie                                         | **5 pkt**                  |                 |
 | 3️⃣ | **Publikacja w DockerHub**                         | Publiczny obraz Dockera dostępny online                                           | **5 pkt**                  |                 |
 | 4️⃣ | **(EXTRA)** **Wdrożenie w chmurze**                | Działająca aplikacja w chmurze (Render, Azure, GCP, AWS, HuggingFace Spaces itp.) | **+10 pkt**                |                 |
-|     | **Łącznie**                                        |                                                                                   | **20 pkt (10 + 10 extra)** |                 |
+|     | **Łącznie**                                        |                                                                                   | **25 pkt (15 + 10 extra)** |                 |
 
 ---
 
