@@ -123,7 +123,7 @@ ai_project_teamX/
 
 ## 🧭 Oddanie przez Teams — wyłącznie jako link (nie plik tekstowy)
 
-Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy link**. Commity po ostatecznym terminie = oszustwo.
+Prześlij **link do brancha** z rozwiązaniem tego etapu. Po każdej poprawie — **nowy przesłanie rozwiązania**. Commity po ostatecznym terminie = oszustwo.
 
 - 📦 Link do brancha z rozwiązaniem (Zajęcia 2): [link tutaj]  
 - 📘 Notebook EDA: [link tutaj]  
