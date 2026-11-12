@@ -55,22 +55,7 @@ Zespół ma zbudować pipeline treningowy w **Kedro**, zrealizować ewaluację j
 
 ---
 
-4. **Dodatkowo Własny model ML - szczegóły jaki to model było opisane na zajęciach. Tylko osoby z zajęć mąją go zrobić**
-   - Zaimplementuj własny model, np.:
-     - klasyfikacja: RandomForest, XGBoost, LightGBM,  
-     - regresja: LinearRegression, CatBoost, Ridge.  
-   - Ustal hiperparametry (grid search lub ręcznie).  
-   - Zapisz metryki jakości i model:
-     ```yaml
-     best_model:
-       type: pickle.PickleDataSet
-       filepath: data/reporting/best_model.pkl
-     ```
-   - Porównaj wyniki (baseline vs AutoML vs własny model).
-
----
-
-5. **Integracja z Kedro**
+4. **Integracja z Kedro**
    - Utwórz pipeline `modeling`:
      - `src/<project_name>/pipelines/modeling/nodes.py`
      - `src/<project_name>/pipelines/modeling/pipeline.py`
@@ -103,7 +88,7 @@ Zespół ma zbudować pipeline treningowy w **Kedro**, zrealizować ewaluację j
 
 ---
 
-6. **Ewaluacja i raport**
+5. **Ewaluacja i raport**
    - Porównaj wyniki trzech podejść:
      - baseline,
      - AutoML,
@@ -115,7 +100,7 @@ Zespół ma zbudować pipeline treningowy w **Kedro**, zrealizować ewaluację j
 
 ---
 
-7. **Wizualizacja wyników (opcjonalnie)**
+6. **Wizualizacja wyników (opcjonalnie)**
    - Można wykorzystać:
      - `matplotlib` lub `seaborn` do wykresów błędów, ważności cech, itp.
      - zapis wykresów w `docs/plots/`.
