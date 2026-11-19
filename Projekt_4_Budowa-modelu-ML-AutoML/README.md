@@ -43,7 +43,7 @@ Zespół ma zbudować pipeline treningowy w **Kedro**, zrealizować ewaluację j
 ---
 
 3. **AutoML**
-   - Wybierz jedną z bibliotek AutoML:
+   - Wybierz jedną z bibliotek AutoML (lub inną):
      - [PyCaret](https://pycaret.gitbook.io/docs/),  
      - [Auto-sklearn](https://automl.github.io/auto-sklearn/),  
      - [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html).
